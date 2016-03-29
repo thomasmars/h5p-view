@@ -1,0 +1,14 @@
+{
+  "name": "h5p-view",
+  "version": "1.0.0",
+  "description": "View H5Ps",
+  "main": "index.js",
+  "keywords": [
+    "H5P",
+    "library",
+    "view",
+    "development"
+  ],
+  "author": "thomasmars",
+  "license": "MIT"
+}
