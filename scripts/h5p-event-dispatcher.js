@@ -1,4 +1,4 @@
-var H5P = H5P || {};
+require('./h5p');
 
 /**
  * The Event class for the EventDispatcher.

@@ -1,3 +1,6 @@
+require('./h5p');
+require('./h5p-event-dispatcher');
+
 /**
  * H5P.ContentType is a base class for all content types. Used by newRunnable()
  *

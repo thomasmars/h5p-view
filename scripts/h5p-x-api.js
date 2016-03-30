@@ -1,4 +1,5 @@
-var H5P = H5P || {};
+require('./h5p');
+require('./h5p-event-dispatcher');
 
 /**
  * The external event dispatcher. Others, outside of H5P may register and

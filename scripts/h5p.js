@@ -1,8 +1,9 @@
 /*jshint multistr: true */
 // TODO: Should we split up the generic parts needed by the editor(and others), and the parts needed to "run" H5Ps?
 
+
 /** @namespace */
-var H5P = H5P || {};
+require('./jquery');
 
 /**
  * Tells us if we're inside of an iframe.
