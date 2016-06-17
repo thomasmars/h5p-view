@@ -1,6 +1,6 @@
 {
   "name": "h5p-view",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "View H5Ps",
   "main": "dist/bundle.js",
   "scripts": {
